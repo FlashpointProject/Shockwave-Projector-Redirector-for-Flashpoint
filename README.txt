@@ -1,4 +1,4 @@
-Shockwave Projector Redirector 1.0.1
+Shockwave Projector Redirector 1.0.2
 By Anthony Kleine
 
 	The Shockwave Projector Redirector (SPR) allows
@@ -194,3 +194,36 @@ Command Line Arguments
 	
 	Usage
 	--bugfixShockwave3DBadDriverList
+	
+	
+	
+	--do [Common]
+	
+	Purpose
+	It allows you to run Lingo code in the scope of the game being curated after it has been loaded.
+	
+	Usage
+	--do "alert('Hello World')"
+	
+	
+	
+	--go [Common]
+	
+	Purpose
+	It selects a frame to go to in the movie.
+	
+	Usage
+	--go 2
+	
+	
+	
+	--port
+	
+	Purpose
+	It changes the Flashpoint Redirector port to proxy to.
+	
+	Usage
+	--port 22500
+	
+	
+	
