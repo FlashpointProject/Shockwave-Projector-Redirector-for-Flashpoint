@@ -10,6 +10,9 @@ By Anthony Kleine
 	Director version. Requires LeechProtectionRemovalHelp
 	Xtra.
 	
+	Version 11.0.3.466 of the Projector was provided
+	by nosamu.
+	
 Command Line Arguments
 	--setTheMoviePath [Uncommon]
 	
