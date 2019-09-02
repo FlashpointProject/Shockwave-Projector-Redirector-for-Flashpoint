@@ -230,3 +230,42 @@ Command Line Arguments
 	
 	
 	
+	--trace [Debug Only]
+	
+	Purpose
+	Enables tracing messages to appear in the Message Window.
+	
+	Usage
+	--trace 1
+	
+	Possible Values
+	-0 _(Default)_
+	-1
+	
+	
+	
+	--traceLoad [Debug Only]
+	
+	Purpose
+	Enables trace loading messages to appear in the Message Window.
+	
+	Usage
+	--traceLoad 1
+	
+	Possible Values
+	-0 _(Default)_
+	-1
+	-2
+	
+	
+	
+	--traceLogFile [Debug Only]
+	
+	Purpose
+	Copies messages that appear in the Message Window to a log file in SPR's folder.
+	
+	Usage
+	--traceLogFile "messages.txt"
+	
+	
+	
