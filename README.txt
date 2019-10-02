@@ -1,17 +1,13 @@
-Shockwave Projector Redirector 1.0.4
+Shockwave Projector Redirector 1.0.5
 By Anthony Kleine
 
 	The Shockwave Projector Redirector (SPR) allows
 	Shockwave Movies to be played via Flashpoint
 	Redirector. 
 	
-	Versions 10.1.1.16 - 12.0.0.111 of the Projector
-	use an identical movie upgraded to the respective
-	Director version. Requires LeechProtectionRemovalHelp
-	Xtra.
-	
-	Version 11.0.3.466 of the Projector was provided
-	by nosamu.
+	All versions of the Projector use an identical movie
+	upgraded to the respective Director version. Requires
+	LeechProtectionRemovalHelp Xtra.
 	
 Command Line Arguments
 	--setTheMoviePath [Uncommon]
