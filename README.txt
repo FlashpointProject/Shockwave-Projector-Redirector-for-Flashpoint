@@ -1,4 +1,4 @@
-Shockwave Projector Redirector 1.0.7
+Shockwave Projector Redirector 1.0.8
 By Anthony Kleine
 
 	The Shockwave Projector Redirector (SPR) allows
