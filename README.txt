@@ -216,16 +216,6 @@ Command Line Arguments
 	
 	
 	
-	--port [For Linux Compatibility]
-	
-	Purpose
-	It changes the Flashpoint Redirector port to proxy to.
-	
-	Usage
-	--port 22500
-	
-	
-	
 	--trace [Debug Only]
 	
 	Purpose
