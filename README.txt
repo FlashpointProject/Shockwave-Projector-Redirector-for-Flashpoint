@@ -1,4 +1,4 @@
-Shockwave Projector Redirector 1.1.3
+Shockwave Projector Redirector 1.2.0
 By Anthony Kleine
 
 	The Shockwave Projector Redirector (SPR) allows
@@ -202,7 +202,17 @@ Command Line Arguments
 	It allows you to run Lingo code in the scope of the game being curated after it has been loaded.
 	
 	Usage
-	--do "alert('Hello World')"
+	--do "set the text of member('Example') to 'Hello World'"
+	
+	
+	
+	--doBefore [Uncommon]
+	
+	Purpose
+	It allows you to run Lingo code in the scope of the game being curated before it has been loaded.
+	
+	Usage
+	--doBefore "alert('I am a jelly donut!')"
 	
 	
 	
@@ -216,10 +226,70 @@ Command Line Arguments
 	
 	
 	
+	--preloadHandler [Uncommon]
+	
+	Purpose
+	It determines how the game is preloaded.
+	
+	Usage
+	--preloadHandler #movie
+	
+	Possible Values
+	-void
+	-#netThing
+	-#movie
+	
+	
+	
+	--newScriptName [Uncommon]
+	
+	Purpose
+	It sets the name of a new script to insert into the game.
+	
+	Usage
+	--newScriptName "My Script"
+	
+	
+	
+	--newScriptText [Uncommon]
+	
+	Purpose
+	It sets the text of a new script to insert into the game.
+	
+	Usage
+	--newScriptText "on exitFrame" --newScriptText "go(1)"
+	
+	
+	
+	--newScriptType [Uncommon]
+	
+	Purpose
+	It sets the type of a new script to insert into the game.
+	
+	Usage
+	--newScriptType #parent
+	
+	Possible Values
+	-#movie _(Default)_
+	-#score
+	-#parent
+	
+	
+	
+	--noDirectX7 [Uncommon]
+	
+	Purpose
+	It prevents DirectX 7 from being used, which solves issues with Windows 10's software rendering.
+	
+	Usage
+	--noDirectX7
+	
+	
+	
 	--trace [Debug Only]
 	
 	Purpose
-	Enables tracing messages to appear in the Message Window.
+	It enables tracing messages to appear in the Message Window.
 	
 	Usage
 	--trace 1
@@ -233,7 +303,7 @@ Command Line Arguments
 	--traceLoad [Debug Only]
 	
 	Purpose
-	Enables trace loading messages to appear in the Message Window.
+	It enables trace loading messages to appear in the Message Window.
 	
 	Usage
 	--traceLoad 1
@@ -248,7 +318,7 @@ Command Line Arguments
 	--traceLogFile [Debug Only]
 	
 	Purpose
-	Copies messages that appear in the Message Window to a log file in SPR's folder.
+	It copies messages that appear in the Message Window to a log file in SPR's folder.
 	
 	Usage
 	--traceLogFile "messages.txt"
