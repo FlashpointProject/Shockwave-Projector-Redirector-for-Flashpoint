@@ -1,4 +1,4 @@
-Shockwave Projector Redirector 1.2.0
+Shockwave Projector Redirector 1.2.1
 By Anthony Kleine
 
 	The Shockwave Projector Redirector (SPR) allows
@@ -241,6 +241,16 @@ Command Line Arguments
 	
 	
 	
+	--noDirectX7 [Uncommon]
+	
+	Purpose
+	It prevents DirectX 7 from being used, which solves issues with Windows 10's software rendering.
+	
+	Usage
+	--noDirectX7
+	
+	
+	
 	--newScriptName [Uncommon]
 	
 	Purpose
@@ -273,16 +283,6 @@ Command Line Arguments
 	-#movie _(Default)_
 	-#score
 	-#parent
-	
-	
-	
-	--noDirectX7 [Uncommon]
-	
-	Purpose
-	It prevents DirectX 7 from being used, which solves issues with Windows 10's software rendering.
-	
-	Usage
-	--noDirectX7
 	
 	
 	
