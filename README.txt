@@ -226,13 +226,13 @@ Command Line Arguments
 	
 	
 	
-	--preloadHandler [Uncommon]
+	--preload [Uncommon]
 	
 	Purpose
 	It determines how the game is preloaded.
 	
 	Usage
-	--preloadHandler #movie
+	--preload #movie
 	
 	Possible Values
 	-void
