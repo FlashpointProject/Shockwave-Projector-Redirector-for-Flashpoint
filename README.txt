@@ -1,4 +1,4 @@
-Shockwave Projector Redirector 1.2.3
+Shockwave Projector Redirector 1.2.4
 By Anthony Kleine
 
 	The Shockwave Projector Redirector (SPR) allows
@@ -238,6 +238,16 @@ Command Line Arguments
 	-void
 	-#netThing
 	-#movie
+	
+	
+	
+	--versionStrict [Uncommon]
+	
+	Purpose
+	It disallows loading the movie if it has a file version that does not match the Projector version of SPR in use.
+	
+	Usage
+	--versionStrict
 	
 	
 	
