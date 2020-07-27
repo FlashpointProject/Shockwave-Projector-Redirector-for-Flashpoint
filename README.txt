@@ -1,9 +1,9 @@
-Shockwave Projector Redirector 1.2.4
+Flashpoint Shockwave Projector 1.2.5
 By Anthony Kleine
 
-	The Shockwave Projector Redirector (SPR) allows
-	Shockwave Movies to be played via Flashpoint
-	Redirector. 
+	The Flashpoint Shockwave Projector (shortened
+	from Shockwave ProjectoR to SPR) allows Shockwave
+	Movies to be played via the Flashpoint Proxy.
 	
 	All versions of the Projector use an identical movie
 	upgraded to the respective Director version. Requires
