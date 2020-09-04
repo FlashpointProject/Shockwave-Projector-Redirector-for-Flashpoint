@@ -1,4 +1,4 @@
-Flashpoint Shockwave Projector 1.2.5
+Flashpoint Shockwave Projector 1.2.6
 By Anthony Kleine
 
 	The Flashpoint Shockwave Projector (shortened
