@@ -1,8 +1,8 @@
-Flashpoint Shockwave Projector 1.3.0
+Flashpoint Shockwave Projector 1.3.1
 By Anthony Kleine
 
 	The Flashpoint Shockwave Projector (shortened
-	from Shockwave ProjectoR to SPR) allows Shockwave
+	from Shockwave PRojector to SPR) allows Shockwave
 	Movies to be played via the Flashpoint Proxy.
 	
 	All versions of the Projector use an identical movie
